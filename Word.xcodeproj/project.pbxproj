@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		FCA8C887235AF4110071A79B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCA8C886235AF4110071A79B /* AppDelegate.swift */; };
-		FCA8C889235AF4110071A79B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCA8C888235AF4110071A79B /* SceneDelegate.swift */; };
 		FCA8C88B235AF4110071A79B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCA8C88A235AF4110071A79B /* ViewController.swift */; };
 		FCA8C88E235AF4110071A79B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FCA8C88C235AF4110071A79B /* Main.storyboard */; };
 		FCA8C891235AF4110071A79B /* Word.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FCA8C88F235AF4110071A79B /* Word.xcdatamodeld */; };
@@ -19,7 +18,6 @@
 /* Begin PBXFileReference section */
 		FCA8C883235AF4110071A79B /* Word.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Word.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FCA8C886235AF4110071A79B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		FCA8C888235AF4110071A79B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		FCA8C88A235AF4110071A79B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		FCA8C88D235AF4110071A79B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		FCA8C890235AF4110071A79B /* Word.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Word.xcdatamodel; sourceTree = "<group>"; };
@@ -59,7 +57,6 @@
 			isa = PBXGroup;
 			children = (
 				FCA8C886235AF4110071A79B /* AppDelegate.swift */,
-				FCA8C888235AF4110071A79B /* SceneDelegate.swift */,
 				FCA8C88A235AF4110071A79B /* ViewController.swift */,
 				FCA8C88C235AF4110071A79B /* Main.storyboard */,
 				FCA8C892235AF4130071A79B /* Assets.xcassets */,
@@ -144,7 +141,6 @@
 				FCA8C88B235AF4110071A79B /* ViewController.swift in Sources */,
 				FCA8C891235AF4110071A79B /* Word.xcdatamodeld in Sources */,
 				FCA8C887235AF4110071A79B /* AppDelegate.swift in Sources */,
-				FCA8C889235AF4110071A79B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
